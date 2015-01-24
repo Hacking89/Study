@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-print u'Арсенька курица'
+print u'Hello world'
